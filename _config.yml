@@ -1,2 +1,3 @@
 name: Gaus for Jekyll
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
